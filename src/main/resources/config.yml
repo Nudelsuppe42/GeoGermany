@@ -1,0 +1,5 @@
+
+# Syntax: x y z: Stadt
+# Einfacher mit ingame: /germanyguessr [add] (Stadt)
+locations:
+  0 0 0: Example

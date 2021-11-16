@@ -1,0 +1,7 @@
+name: Geoguessr
+version: '${project.version}'
+main: de.nudelsuppe.geoguessr.Main
+commands:
+  germanyguessr:
+    description: Play a game of Geoguessr in Germany
+    aliases: [geo,guessr,guess,gguess,gguessr,geoguessr]
